@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+.botak{
+    height: 250px;
+    margin-left: 50px;
+    margin-top: 30px;
+    position: absolute;
+    border-radius: 10px;
+}
+#box{
+    width: 300px;
+    height: 300px;
+    border: 3px solid blue;
+    margin-left: 100px;
+    border-radius: 10px;
+    margin-left: -200px;
+}
+.title {
+    margin-left: 150px;
+    margin-top: -30px;
+    position: absolute;
+    font-weight: 500;
+    font-size: 50px;
+}
+.section1{
+    padding-top: 100px;
+}
+.tod{
+    display: flex;
+}
+.section2{
+    margin-top: 50px;
+    margin-left: 50%;
+    position: absolute;
+    font-size: 30px;
+}
+.section1 p{
+    margin-left: 150px;
+    margin-top: -20px;
+    font-size: 20px;
+}
+.Portfolio img{
+    height: 500px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+.Portfolio h1{
+    font-size: 50px;
+    margin-top: 100px;
+}
+.footer {
+    display: flex;
+    padding-left: 100px;
+}
+.footer2{
+    margin-left: 100px;
+}
+.footer1 img{
+    padding-top: 50px;
+}
+.footer h1{
+    font-size: 50px;
+}
+.lightroom-skill{
+    display: flex;
+}
+.bar1{
+    background: linear-gradient(to right, blue 0%, blue 80%, gray 90%, gray 100%);
+    height: 50px;
+    width: 550px;
+    margin-top: 65px;
+    margin-left: 20px;  
+}
+.photoshop-skill{
+    display: flex;
+}
+.bar2{
+    background: linear-gradient(to right, blue 0%, blue 60%, gray 80%, gray 100%);
+    height: 50px;
+    width: 550px;
+    margin-top: 65px;
+    margin-left: 20px;  
+}
+.premiere-skill{
+    display: flex;
+}
+.bar3{
+    background: linear-gradient(to right, blue 0%, blue 30%, gray 60%, gray 100%);
+    height: 50px;
+    width: 550px;
+    margin-top: 65px;
+    margin-left: 20px;  
+}
+.wa{
+    display: flex;
+    padding-top: 45px;
+}
+.instagram{
+    display: flex;
+    padding-top: 45px;
+}
+.email{
+    display: flex;
+    padding-top: 45px;
+}
+
+.email img{
+    height: 100px;
+}
+.instagram img{
+    height: 100px;
+}
+.contact p{
+    font-size: 30px;
+    margin-left: 70px;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
